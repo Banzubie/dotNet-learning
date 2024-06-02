@@ -12,3 +12,4 @@ C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Debug\net8.0\refint\dotNe
 C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Debug\net8.0\dotNet-learning.pdb
 C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Debug\net8.0\dotNet-learning.genruntimeconfig.cache
 C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Debug\net8.0\ref\dotNet-learning.dll
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Debug\net8.0\dotNet-learning.sourcelink.json

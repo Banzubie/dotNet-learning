@@ -1,0 +1,5 @@
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\publish\dotNet-learning.exe
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\publish\dotNet-learning.dll
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\publish\dotNet-learning.deps.json
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\publish\dotNet-learning.runtimeconfig.json
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\publish\dotNet-learning.pdb

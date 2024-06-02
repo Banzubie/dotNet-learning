@@ -1,0 +1,15 @@
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\dotNet-learning.exe
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\dotNet-learning.deps.json
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\dotNet-learning.runtimeconfig.json
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\dotNet-learning.dll
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\bin\Release\net8.0\dotNet-learning.pdb
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.AssemblyInfoInputs.cache
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.AssemblyInfo.cs
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.csproj.CoreCompileInputs.cache
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.sourcelink.json
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.dll
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\refint\dotNet-learning.dll
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.pdb
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\dotNet-learning.genruntimeconfig.cache
+C:\Users\Banzubie\Documents\GitHub\dotNet-learning\obj\Release\net8.0\ref\dotNet-learning.dll
